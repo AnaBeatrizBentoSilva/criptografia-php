@@ -25,6 +25,7 @@ Cada arquivo e pasta representa um projeto individual
 ├── VoceNoComando/
 │   ├── Arquivocodificado.php 
 │   └── VoceNoComando.php
+├── README.md
 ├── base64.php   
 ├── hash.php  
 ├── hashh.php
